@@ -1,2 +1,2 @@
 # color_extract
-A color extraction script to detect the dominant color in an image
+This one pager php file serves to detect the dominant color in any given image in addition to providing two of its variants (lightest and darkest) thanks to the two other functions...
